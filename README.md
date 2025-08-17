@@ -49,5 +49,3 @@ The database consists of the following tables:
 ![ER Diagram](er_diagram.png)
 
 ---
-
-👨‍💻 Developed as part of a **Database Management System Project**
