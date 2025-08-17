@@ -45,9 +45,8 @@ The database consists of the following tables:
 - Assign bankers to branches
 - Issue and manage credit cards
 
-## 📑 Report
-Full project documentation with ER diagrams and details is available in:
-📄 **[Project - Banking System (07).pdf](Project%20-%20Banking%20System%20(07).pdf)**
+## 📊 ER Diagram
+![ER Diagram](er_diagram.png)
 
 ---
 
